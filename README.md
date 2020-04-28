@@ -1,8 +1,9 @@
 ## Run Locally
 
 ```sh
-$ npm install
+$ git clone https://github.com/Inukares/react-calculator.git
 $ cd react-calculator
+$ npm install
 $ npm start
 ```
 
