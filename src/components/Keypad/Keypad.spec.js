@@ -20,7 +20,7 @@ describe('Keypad', () => {
         operators={MOCK_OPERATORS}
         setOperator={MOCK_SET_OPERATOR}
         updateDisplay={MOCK_UPDATE_DISPLAY}
-      />
+      />,
     );
   });
 
@@ -48,7 +48,7 @@ describe('mounted Keypad', () => {
         operators={MOCK_OPERATORS}
         setOperator={MOCK_SET_OPERATOR}
         updateDisplay={MOCK_UPDATE_DISPLAY}
-      />
+      />,
     );
   });
 

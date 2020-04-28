@@ -26,7 +26,7 @@ describe('Calculator', () => {
           setOperator={wrapper.instance().setOperator}
           updateDisplay={wrapper.instance().updateDisplay}
         />,
-      ])
+      ]),
     ).toEqual(true);
   });
 

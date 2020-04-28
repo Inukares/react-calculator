@@ -16,7 +16,7 @@ describe('Key', () => {
         keyAction={MOCK_KEY_ACTION}
         keyType={MOCK_KEY_TYPE}
         keyValue={MOCK_KEY_VALUE}
-      />
+      />,
     );
   });
 
